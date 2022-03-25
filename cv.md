@@ -13,7 +13,7 @@
    * BEM methodology
    * GIT
 5. Code example
-```javascript
+``````javascript
 function createPhoneNumber(numbers){  //from NumberArray => string in format (xxx) xxx-xxxx
  	numbers = numbers.join("");
   
