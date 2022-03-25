@@ -19,4 +19,9 @@ function createPhoneNumber(numbers){  //from NumberArray => string in format (xx
   
   	return "(" + numbers.substring(0, 3) + ") " + numbers.substring(3, 6) + "-" + numbers.substring(6, 10);
 }
-````
+```````
+6.  [Repository with Pet HTML & CSS Projects](https://github.com/Alexandr-Zabelin/landings)
+7.  * Getting Bachelor's degree in CS from SPBU
+	* Coursera HTML, CSS courses from Yandex
+	* Codecademy HTML, CSS and JS courses
+8.  B1 - B2
