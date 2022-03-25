@@ -13,13 +13,13 @@
    * BEM methodology
    * GIT
 5. Code example
-``````javascript
+```javascript
 function createPhoneNumber(numbers){  //from NumberArray => string in format (xxx) xxx-xxxx
  	numbers = numbers.join("");
   
   	return "(" + numbers.substring(0, 3) + ") " + numbers.substring(3, 6) + "-" + numbers.substring(6, 10);
 }
-```````
+````
 6.  [Repository with Pet HTML & CSS Projects](https://github.com/Alexandr-Zabelin/landings)
 7.  * Getting Bachelor's degree in CS from SPBU
 	* Coursera HTML, CSS courses from Yandex
